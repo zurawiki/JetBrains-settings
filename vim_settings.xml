@@ -1,0 +1,131 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1441752100899">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+      </file>
+      <file name="$USER_HOME$/experimental/browser/src/components/button-dropdown.js" timestamp="1445886195026">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+        <mark key="^" line="30" column="34" />
+      </file>
+      <file name="$USER_HOME$/experimental/setup-env.sh" timestamp="1441754343881">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="12" />
+        <mark key="." line="7" column="12" />
+        <mark key="^" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/experimental/browser/src/component-library/button.js" timestamp="1445884264567">
+        <mark key="[" line="90" column="9" />
+        <mark key="]" line="90" column="9" />
+        <mark key="." line="90" column="35" />
+      </file>
+      <file name="$USER_HOME$/experimental/browser/.eslintrc" timestamp="1449256770099">
+        <mark key="[" line="62" column="26" />
+        <mark key="]" line="30" column="25" />
+        <mark key="^" line="30" column="25" />
+        <mark key="." line="62" column="26" />
+      </file>
+      <file name="$USER_HOME$/experimental/browser/test/component-library/icon_test.js" timestamp="1441745683298">
+        <mark key="[" line="23" column="39" />
+        <mark key="]" line="23" column="39" />
+        <mark key="^" line="5" column="9" />
+        <mark key="." line="23" column="39" />
+      </file>
+      <file name="/a.dummy" timestamp="1441752100906">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/experimental/browser/src/models/column_presentation_model.js" timestamp="1441745234406">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/experimental/modules/common/kr-linter/src/eslintrc.js" timestamp="1449169664539">
+        <mark key="[" line="401" column="0" />
+        <mark key="]" line="401" column="0" />
+        <mark key="." line="401" column="0" />
+      </file>
+      <file name="$USER_HOME$/experimental/scripts/common/get_base_dir.sh" timestamp="1441754434805">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="3" column="15" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/experimental/scripts/check-lint.sh" timestamp="1441754212985">
+        <mark key="[" line="3" column="12" />
+      </file>
+      <file name="$USER_HOME$/experimental/package.json" timestamp="1445896012773">
+        <mark key="[" line="31" column="23" />
+        <mark key="]" line="32" column="26" />
+        <mark key="." line="32" column="26" />
+        <mark key="^" line="32" column="26" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="8" column="14" filename="$USER_HOME$/experimental/setup-env.sh" />
+      <jump line="26" column="21" filename="$USER_HOME$/experimental/setup-env.sh" />
+      <jump line="16" column="23" filename="$USER_HOME$/experimental/setup-env.sh" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">IyBJZiB5b3UgbW92ZSB0aGlzIGZpbGUsIHlvdSBzaG91bGQgdXBkYXRlIHRoZSBwYXRoIGxvZ2ljIGJlbG93Lgo=</text>
+      </register>
+      <register name="1" type="4">
+        <text>,</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>,</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIC8vIHNwYWNpbmcgYXJvdW5kIHNlbWljb2xvbnMsIG5vbmUgYmVmb3JlLCBvbmUgYWZ0ZXIKICAgICdzZW1pLXNwYWNpbmcnOiBbMiwgeydiZWZvcmUnOiBmYWxzZSwgJ2FmdGVyJzogdHJ1ZX1dLA==</text>
+      </register>
+      <register name="4" type="4">
+        <text>,</text>
+      </register>
+      <register name="5" type="4">
+        <text>,</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgfQoKfTs=</text>
+      </register>
+      <register name="7" type="4">
+        <text>)</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgInJlYWN0LWRvbSI6ICJeMC4xNC4wIiwK</text>
+      </register>
+      <register name="9" type="4">
+        <text>/addons'</text>
+      </register>
+      <register name="-" type="4">
+        <text>,</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>

@@ -1,0 +1,24 @@
+<application>
+  <component name="XDebuggerSettings">
+    <data-views>
+      <sort-values>true</sort-values>
+      <option name="valueLookupDelay" value="100" />
+    </data-views>
+    <general />
+    <debuggers>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation enabled="true">
+            <properties>
+              <property value="id" />
+              <property value="key" />
+              <property value="name" />
+              <property value="type" />
+              <property value="value" />
+            </properties>
+          </custom-object-presentation>
+        </configuration>
+      </debugger>
+    </debuggers>
+  </component>
+</application>

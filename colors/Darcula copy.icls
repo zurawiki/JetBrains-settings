@@ -1,0 +1,22 @@
+<scheme name="Darcula copy" version="142" parent_scheme="Darcula">
+  <option name="LINE_SPACING" value="1.0" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Meslo LG M for Powerline" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Meslo LG M for Powerline" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Menlo for Powerline" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <colors>
+    <option name="CARET_ROW_COLOR" value="53472c" />
+  </colors>
+</scheme>

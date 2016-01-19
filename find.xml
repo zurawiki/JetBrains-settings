@@ -1,0 +1,21 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Directory '/Users/roger/experimental'" />
+    <option name="defaultScopeName" value="Directory '/Users/roger/experimental'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Directory '/Users/roger/experimental'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.sh</mask>
+      <mask>*.js</mask>
+    </recentFileMasks>
+  </component>
+</application>
