@@ -13,6 +13,7 @@
               <property value="id" />
               <property value="key" />
               <property value="name" />
+              <property value="objectPath" />
               <property value="type" />
               <property value="value" />
             </properties>
