@@ -10,6 +10,9 @@
             <id>Code quality toolsJavaScript</id>
           </State>
           <State>
+            <id>General</id>
+          </State>
+          <State>
             <id>GeneralJavaScript</id>
           </State>
           <State>
@@ -18,7 +21,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>ES6Validation</id>
+            <id>ProblematicWhitespace</id>
           </State>
         </selected-state>
       </profile-state>
