@@ -9,5 +9,6 @@
     <entry key="ide.tooltip.initialDelay" value="506" />
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
     <entry key="dumb.aware.run.configurations" value="true" />
+    <entry key="js.debugger.v8.use.any.breakpoint" value="false" />
   </component>
 </application>
