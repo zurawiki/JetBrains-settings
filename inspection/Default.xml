@@ -175,7 +175,6 @@
   <inspection_tool class="LessUnresolvedMixin" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="LessUnresolvedVariable" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="LoopStatementThatDoesntLoopJS" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="LossyEncoding" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="NodeModulesDependencies" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="NodeRequireContents" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="OctalIntegerJS" enabled="false" level="WARNING" enabled_by_default="false" />
