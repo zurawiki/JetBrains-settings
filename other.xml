@@ -137,12 +137,22 @@
     <option name="KEEP_ITN_PASSWORD" value="false" />
     <option name="EMAIL" value="" />
   </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v5.6.0/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v5.4.1/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v5.4.0/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v5.3.0/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v5.1.0/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v4.2.1/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/io.js/v2.3.4/bin/node" />
+  </component>
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="/usr/local/bin/node" version="5.6.0" last-modified="1455034572000" />
-    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v5.3.0/bin/node" version="(Does not exist)" last-modified="1457115386094" />
-    <node-interpreter path="$USER_HOME$/.nvm/versions/io.js/v2.3.4/bin/node" version="(Does not exist)" last-modified="1457115386095" />
-    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v5.1.0/bin/node" version="(Does not exist)" last-modified="1457115386095" />
-    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v5.4.0/bin/node" version="(Does not exist)" last-modified="1457115386095" />
-    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v4.2.1/bin/node" version="(Does not exist)" last-modified="1457115386095" />
+    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v5.3.0/bin/node" version="(Does not exist)" last-modified="1457116562145" />
+    <node-interpreter path="$USER_HOME$/.nvm/versions/io.js/v2.3.4/bin/node" version="(Does not exist)" last-modified="1457116562145" />
+    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v5.1.0/bin/node" version="(Does not exist)" last-modified="1457116562145" />
+    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v5.4.0/bin/node" version="(Does not exist)" last-modified="1457116562145" />
+    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v4.2.1/bin/node" version="(Does not exist)" last-modified="1457116562145" />
   </component>
 </application>
