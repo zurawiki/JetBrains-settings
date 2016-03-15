@@ -10,6 +10,8 @@
         <configuration>
           <custom-object-presentation enabled="true">
             <properties>
+              <property value="attributes" />
+              <property value="data" />
               <property value="id" />
               <property value="key" />
               <property value="name" />
