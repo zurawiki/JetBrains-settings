@@ -36,21 +36,12 @@
             <id>Code quality toolsJavaScript</id>
           </State>
           <State>
-            <id>DOM issuesJavaScript</id>
-          </State>
-          <State>
-            <id>GeneralJavaScript</id>
-          </State>
-          <State>
             <id>JavaScript</id>
-          </State>
-          <State>
-            <id>Node.jsJavaScript</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>Code quality toolsJavaScript</id>
+            <id>Eslint</id>
           </State>
         </selected-state>
       </profile-state>
