@@ -8,17 +8,37 @@
         <mark key="]" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/experimental/browser/src/components/button-dropdown.js" timestamp="1445886195026">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="26" />
-        <mark key="." line="0" column="26" />
-        <mark key="^" line="30" column="34" />
-      </file>
       <file name="$USER_HOME$/experimental/setup-env.sh" timestamp="1441754343881">
         <mark key="[" line="7" column="12" />
         <mark key="]" line="7" column="12" />
         <mark key="." line="7" column="12" />
         <mark key="^" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/experimental/browser/test/component-library/icon_test.js" timestamp="1441745683298">
+        <mark key="[" line="23" column="39" />
+        <mark key="]" line="23" column="39" />
+        <mark key="^" line="5" column="9" />
+        <mark key="." line="23" column="39" />
+      </file>
+      <file name="/a.dummy" timestamp="1441752100906">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/experimental/modules/common/kr-linter/src/eslintrc.js" timestamp="1449169664539">
+        <mark key="[" line="401" column="0" />
+        <mark key="]" line="401" column="0" />
+        <mark key="." line="401" column="0" />
+      </file>
+      <file name="$USER_HOME$/experimental/modules/common/kr-ops/src/operation_types.js" timestamp="1459910919387">
+        <mark key="[" line="212" column="40" />
+        <mark key="]" line="194" column="55" />
+        <mark key="." line="212" column="40" />
+        <mark key="^" line="194" column="55" />
+      </file>
+      <file name="$USER_HOME$/experimental/browser/src/components/button-dropdown.js" timestamp="1445886195026">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+        <mark key="^" line="30" column="34" />
       </file>
       <file name="$USER_HOME$/experimental/browser/src/component-library/button.js" timestamp="1445884264567">
         <mark key="[" line="90" column="9" />
@@ -31,24 +51,10 @@
         <mark key="^" line="30" column="25" />
         <mark key="." line="62" column="26" />
       </file>
-      <file name="$USER_HOME$/experimental/browser/test/component-library/icon_test.js" timestamp="1441745683298">
-        <mark key="[" line="23" column="39" />
-        <mark key="]" line="23" column="39" />
-        <mark key="^" line="5" column="9" />
-        <mark key="." line="23" column="39" />
-      </file>
-      <file name="/a.dummy" timestamp="1441752100906">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/experimental/browser/src/models/column_presentation_model.js" timestamp="1441745234406">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/experimental/modules/common/kr-linter/src/eslintrc.js" timestamp="1449169664539">
-        <mark key="[" line="401" column="0" />
-        <mark key="]" line="401" column="0" />
-        <mark key="." line="401" column="0" />
       </file>
       <file name="$USER_HOME$/experimental/scripts/common/get_base_dir.sh" timestamp="1441754434805">
         <mark key="[" line="1" column="0" />
@@ -76,37 +82,37 @@
         <text encoding="base64">IyBJZiB5b3UgbW92ZSB0aGlzIGZpbGUsIHlvdSBzaG91bGQgdXBkYXRlIHRoZSBwYXRoIGxvZ2ljIGJlbG93Lgo=</text>
       </register>
       <register name="1" type="4">
-        <text>,</text>
+        <text>:</text>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>:</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>:</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgIC8vIHNwYWNpbmcgYXJvdW5kIHNlbWljb2xvbnMsIG5vbmUgYmVmb3JlLCBvbmUgYWZ0ZXIKICAgICdzZW1pLXNwYWNpbmcnOiBbMiwgeydiZWZvcmUnOiBmYWxzZSwgJ2FmdGVyJzogdHJ1ZX1dLA==</text>
+        <text>:</text>
       </register>
       <register name="4" type="4">
-        <text>,</text>
+        <text>:</text>
       </register>
       <register name="5" type="4">
-        <text>,</text>
+        <text>:</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgfQoKfTs=</text>
+        <text>:</text>
       </register>
       <register name="7" type="4">
-        <text>)</text>
+        <text>:</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgInJlYWN0LWRvbSI6ICJeMC4xNC4wIiwK</text>
+      <register name="8" type="4">
+        <text>:</text>
       </register>
       <register name="9" type="4">
-        <text>/addons'</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>:</text>
       </register>
     </registers>
     <search>
