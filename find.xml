@@ -17,9 +17,9 @@
       <mask>*.sh</mask>
       <mask>*.md</mask>
       <mask>*.less</mask>
-      <mask>*.js</mask>
       <mask>package.json</mask>
       <mask>index.js</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
