@@ -19,6 +19,9 @@
           </option>
         </PlaceSettings>
       </entry>
+      <entry key="DirDiff">
+        <PlaceSettings />
+      </entry>
       <entry key="TestsFiledAssertions">
         <PlaceSettings />
       </entry>
@@ -38,6 +41,12 @@
       </entry>
       <entry key="Default">
         <PlaceSettings>
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
+        </PlaceSettings>
+      </entry>
+      <entry key="DirDiff">
+        <PlaceSettings>
+          <option name="HIGHLIGHT_POLICY" value="BY_WORD_SPLIT" />
           <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
         </PlaceSettings>
       </entry>
