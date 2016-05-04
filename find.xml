@@ -5,7 +5,6 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'experimental'" />
-    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,10 +16,10 @@
       <mask>*.mxml</mask>
       <mask>*.sh</mask>
       <mask>*.md</mask>
-      <mask>*.less</mask>
       <mask>package.json</mask>
       <mask>index.js</mask>
       <mask>*.js</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
