@@ -3,6 +3,7 @@
     <option name="customScope" value="Project 'experimental'" />
     <option name="defaultScopeName" value="Project 'experimental'" />
     <option name="SEARCH_SCOPE" value="Project 'experimental'" />
+    <option name="FILE_MASK" value="*.sh" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -12,12 +13,12 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.sh</mask>
       <mask>*.md</mask>
       <mask>package.json</mask>
       <mask>index.js</mask>
       <mask>*.js</mask>
       <mask>*.less</mask>
+      <mask>*.sh</mask>
     </recentFileMasks>
   </component>
 </application>
