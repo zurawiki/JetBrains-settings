@@ -3,6 +3,7 @@
     <option name="customScope" value="Project 'experimental'" />
     <option name="defaultScopeName" value="Project 'experimental'" />
     <option name="SEARCH_SCOPE" value="Project 'experimental'" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
