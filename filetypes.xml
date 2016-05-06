@@ -5,6 +5,7 @@
       <mapping pattern="constants" type="JavaScript" />
       <mapping pattern="regex" type="JavaScript" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="section_grid_helper_test.js" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="opts" type="PLAIN_TEXT" />
     </extensionMap>
