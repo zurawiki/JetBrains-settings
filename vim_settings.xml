@@ -56,6 +56,10 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/e/scripts/build/build-utils.sh" timestamp="1463066088593">
+        <mark key="'" line="39" column="11" />
+        <mark key="[" line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/experimental/scripts/common/get_base_dir.sh" timestamp="1441754434805">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -76,6 +80,8 @@
       <jump line="8" column="14" filename="$USER_HOME$/experimental/setup-env.sh" />
       <jump line="26" column="21" filename="$USER_HOME$/experimental/setup-env.sh" />
       <jump line="16" column="23" filename="$USER_HOME$/experimental/setup-env.sh" />
+      <jump line="46" column="57" filename="$USER_HOME$/e/scripts/build/build-utils.sh" />
+      <jump line="39" column="11" filename="$USER_HOME$/e/scripts/build/build-utils.sh" />
     </jumps>
     <registers>
       <register name="0" type="2">
