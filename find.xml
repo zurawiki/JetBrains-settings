@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '/Users/roger/e/modules/common/kr-models-document/test/data/golden_checksum_info.json'" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,10 +20,10 @@
       <mask>*.md</mask>
       <mask>package.json</mask>
       <mask>index.js</mask>
-      <mask>*.js</mask>
       <mask>*.sh</mask>
       <mask>*.less</mask>
       <mask>*_test.js</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
