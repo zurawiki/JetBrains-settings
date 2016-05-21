@@ -2,8 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '/Users/roger/e/modules/common/kr-models-document/test/data/golden_checksum_info.json'" />
     <option name="defaultScopeName" value="File '/Users/roger/e/modules/common/kr-models-document/test/data/golden_checksum_info.json'" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="preserveCase" value="true" />
+    <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="File '/Users/roger/e/modules/common/kr-models-document/test/data/golden_checksum_info.json'" />
     <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
