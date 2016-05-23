@@ -165,4 +165,7 @@
     <node-interpreter path="$USER_HOME$/.nvm/versions/node/v5.4.0/bin/node" version="(Does not exist)" last-modified="1463810075157" />
     <node-interpreter path="$USER_HOME$/.nvm/versions/node/v4.2.1/bin/node" version="(Does not exist)" last-modified="1463810075157" />
   </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_PACKAGE" value="false" />
+  </component>
 </application>
