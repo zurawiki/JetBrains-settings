@@ -163,12 +163,12 @@
   </component>
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="/usr/local/bin/node" version="6.2.1" last-modified="1464903893000" />
-    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v5.3.0/bin/node" version="(Does not exist)" last-modified="1465230964992" />
-    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v5.10.0/bin/node" version="(Does not exist)" last-modified="1465230964992" />
-    <node-interpreter path="$USER_HOME$/.nvm/versions/io.js/v2.3.4/bin/node" version="(Does not exist)" last-modified="1465230964992" />
-    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v5.1.0/bin/node" version="(Does not exist)" last-modified="1465230964992" />
-    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v5.4.0/bin/node" version="(Does not exist)" last-modified="1465230964992" />
-    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v4.2.1/bin/node" version="(Does not exist)" last-modified="1465230964992" />
+    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v5.3.0/bin/node" version="(Does not exist)" last-modified="1465248521033" />
+    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v5.10.0/bin/node" version="(Does not exist)" last-modified="1465248521033" />
+    <node-interpreter path="$USER_HOME$/.nvm/versions/io.js/v2.3.4/bin/node" version="(Does not exist)" last-modified="1465248521033" />
+    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v5.1.0/bin/node" version="(Does not exist)" last-modified="1465248521033" />
+    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v5.4.0/bin/node" version="(Does not exist)" last-modified="1465248521033" />
+    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v4.2.1/bin/node" version="(Does not exist)" last-modified="1465248521033" />
   </component>
   <component name="PyTestFrameworkService">
     <option name="SDK_TO_NOSETEST">
