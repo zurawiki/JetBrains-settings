@@ -5,7 +5,6 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '/Users/roger/e/modules/common/kr-models-document/test/data/golden_checksum_info.json'" />
-    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
