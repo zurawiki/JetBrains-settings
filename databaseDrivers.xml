@@ -44,6 +44,14 @@
     <driver id="sqlserver.ms" name="SQL Server (Microsoft)" dialect="TSQL">
       <option name="auto-sync" value="true" />
     </driver>
+    <driver id="java.sql.Driver" name="Amazon Redshift" dialect="GenericSQL" driver-class="com.amazon.redshift.jdbc41.Driver">
+      <url-template name="default" template="jdbc:redshift:[//[{host::localhost}[:{port::5439}]]/]{database::postgres}[\?&lt;&amp;,user={user:param},password={password:param},{:identifier}={:param}&gt;]" />
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <library>
+        <url>file://$USER_HOME$/Downloads/RedshiftJDBC41-1.1.10.1010.jar</url>
+      </library>
+    </driver>
     <driver id="db2.jtopen" name="DB2 (JTOpen)" dialect="DB2">
       <option name="auto-sync" value="false" />
       <property name="prompt" value="false" />
