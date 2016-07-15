@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Users/roger/e/modules/common/kr-models-document/test/data/golden_checksum_info.json'" />
-    <option name="defaultScopeName" value="File '/Users/roger/e/modules/common/kr-models-document/test/data/golden_checksum_info.json'" />
+    <option name="customScope" value="Project 'experimental'" />
+    <option name="defaultScopeName" value="Project 'experimental'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '/Users/roger/e/modules/common/kr-models-document/test/data/golden_checksum_info.json'" />
+    <option name="SEARCH_SCOPE" value="Project 'experimental'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
