@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project 'experimental'" />
     <option name="defaultScopeName" value="Project 'experimental'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'experimental'" />
     <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
