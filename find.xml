@@ -1,10 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project 'experimental'" />
     <option name="defaultScopeName" value="Project 'experimental'" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'experimental'" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -20,8 +19,8 @@
       <mask>*_test.js</mask>
       <mask>*.less</mask>
       <mask>*.sh</mask>
-      <mask>*.js</mask>
       <mask>*.jsonnet</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
