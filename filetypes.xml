@@ -11,6 +11,7 @@
       <mapping ext="opts" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="jsonnet" type="PLAIN_TEXT" />
+      <mapping ext="unf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
