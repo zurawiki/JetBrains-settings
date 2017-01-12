@@ -10,6 +10,6 @@
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="js.debugger.v8.use.any.breakpoint" value="false" />
-    <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="js.debugger.chrome.use.any.breakpoint" value="false" />
   </component>
 </application>

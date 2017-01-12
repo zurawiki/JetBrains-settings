@@ -1,0 +1,67 @@
+<application>
+  <component name="libraryTable">
+    <library name="browser" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_babel-core@5.8.38_browser.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_babel-core@5.8.38_browser.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Python 2.7.11 virtualenv at ~/e/build/krypton-virtualenv interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/e/build/krypton-virtualenv/lib/python2.7" />
+        <root url="file://$USER_HOME$/e/build/krypton-virtualenv/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/e/build/krypton-virtualenv/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.1/python_stubs/2114320512" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/e/build/krypton-virtualenv/lib/python2.7" />
+        <root url="file://$USER_HOME$/e/build/krypton-virtualenv/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/e/build/krypton-virtualenv/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.1/python_stubs/2114320512" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
+    <library name="react" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_react@15.3.2_dist_react.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_react@15.3.2_dist_react.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="react-dom" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_react-dom@15.3.2_dist_react-dom.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_react-dom@15.3.2_dist_react-dom.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
