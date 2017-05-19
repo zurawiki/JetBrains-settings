@@ -6,6 +6,7 @@
       <mapping pattern="regex" type="JavaScript" />
       <mapping pattern="section_grid_helper_test.js" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="jsonney" type="PLAIN_TEXT" />
       <mapping ext="opts" type="PLAIN_TEXT" />
