@@ -10,7 +10,6 @@
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="jsonney" type="PLAIN_TEXT" />
       <mapping ext="opts" type="PLAIN_TEXT" />
-      <mapping ext="pug" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="png@2x" type="PLAIN_TEXT" />
       <mapping ext="jsonnet" type="PLAIN_TEXT" />
