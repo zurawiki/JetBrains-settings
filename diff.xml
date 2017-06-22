@@ -1,12 +1,6 @@
 <application>
   <component name="DiffSettings">
     <option name="PLACES_MAP">
-      <entry key="ChangesView">
-        <PlaceSettings />
-      </entry>
-      <entry key="CommitDialog">
-        <PlaceSettings />
-      </entry>
       <entry key="Default">
         <PlaceSettings>
           <option name="DIFF_TOOLS_ORDER">
@@ -18,9 +12,6 @@
             </list>
           </option>
         </PlaceSettings>
-      </entry>
-      <entry key="DirDiff">
-        <PlaceSettings />
       </entry>
       <entry key="TestsFiledAssertions">
         <PlaceSettings>
@@ -38,20 +29,16 @@
   </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
-      <entry key="ChangesView">
-        <PlaceSettings>
-          <option name="EXPAND_BY_DEFAULT" value="false" />
-        </PlaceSettings>
-      </entry>
       <entry key="CommitDialog">
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
         </PlaceSettings>
       </entry>
       <entry key="Default">
         <PlaceSettings>
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
           <option name="EXPAND_BY_DEFAULT" value="false" />
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
         </PlaceSettings>
       </entry>
       <entry key="DirDiff">
