@@ -15,16 +15,25 @@
       <mask>*.md</mask>
       <mask>package.json</mask>
       <mask>index.js</mask>
-      <mask>*_test.js</mask>
-      <mask>*.sh</mask>
       <mask>*.jsonnet</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.l</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.les</mask>
+      <mask>*.le</mask>
+      <mask>*.l</mask>
+      <mask>*.sh</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>*_</mask>
+      <mask>*_t</mask>
+      <mask>*_te</mask>
+      <mask>*_tes</mask>
+      <mask>*_test</mask>
+      <mask>*_test.</mask>
+      <mask>*_test.j</mask>
+      <mask>*_test.js</mask>
     </recentFileMasks>
   </component>
 </application>
