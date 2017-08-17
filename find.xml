@@ -7,15 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.?s" />
     <recentFileMasks>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.md</mask>
-      <mask>package.json</mask>
-      <mask>index.js</mask>
       <mask>*.jsonnet</mask>
       <mask>*.less</mask>
       <mask>*.les</mask>
@@ -29,15 +22,23 @@
       <mask>*_test.</mask>
       <mask>*_test.j</mask>
       <mask>*_test.js</mask>
-      <mask>*</mask>
       <mask>*.sh</mask>
-      <mask>*.s</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.tss</mask>
+      <mask>*.ts,</mask>
       <mask>*.ts</mask>
+      <mask>*.[ts</mask>
+      <mask>*.[jts</mask>
+      <mask>*.[jt]s</mask>
+      <mask>*.[jt]</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.*</mask>
+      <mask>*.*s</mask>
+      <mask>*.s</mask>
+      <mask>*.?s</mask>
     </recentFileMasks>
   </component>
 </application>
