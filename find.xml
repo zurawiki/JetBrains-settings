@@ -1,16 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
@@ -20,8 +16,6 @@
       <mask>package.json</mask>
       <mask>index.js</mask>
       <mask>*.jsonnet</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.less</mask>
       <mask>*.les</mask>
       <mask>*.le</mask>
@@ -35,9 +29,14 @@
       <mask>*_test.j</mask>
       <mask>*_test.js</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
       <mask>*.sh</mask>
+      <mask>*.s</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.tss</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
