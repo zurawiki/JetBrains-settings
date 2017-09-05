@@ -1,13 +1,14 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.?s" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
-      <mask>*.less</mask>
-      <mask>*.les</mask>
-      <mask>*.le</mask>
       <mask>*.l</mask>
       <mask>*_</mask>
       <mask>*_t</mask>
@@ -29,12 +30,15 @@
       <mask>*.[jt]s</mask>
       <mask>*.[jt]</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.*</mask>
       <mask>*.*s</mask>
       <mask>*.Ts</mask>
-      <mask>*.s</mask>
       <mask>*.?s</mask>
+      <mask>*.?</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
