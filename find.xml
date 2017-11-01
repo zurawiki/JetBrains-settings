@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../modules/server/notifications/src/components.tsx - [experimental]'" />
-    <option name="defaultScopeName" value="File '.../modules/server/notifications/src/components.tsx - [experimental]'" />
-    <option name="SEARCH_SCOPE" value="File '.../modules/server/notifications/src/components.tsx - [experimental]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.sh</mask>
       <mask>*.js</mask>
