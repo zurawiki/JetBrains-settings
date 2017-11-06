@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.?s" />
     <recentFileMasks>
-      <mask>*.sh</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.t</mask>
       <mask>*.tss</mask>
@@ -20,8 +19,6 @@
       <mask>*.Ts</mask>
       <mask>*.sql</mask>
       <mask>*.sq</mask>
-      <mask>*.</mask>
-      <mask>*.?</mask>
       <mask>*.;es</mask>
       <mask>*.;s</mask>
       <mask>*.lesss</mask>
@@ -29,11 +26,15 @@
       <mask>*.pu</mask>
       <mask>*.pug</mask>
       <mask>*.ts</mask>
-      <mask>*.?s</mask>
       <mask>*.s</mask>
       <mask>*.ls</mask>
-      <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.les</mask>
+      <mask>*.le</mask>
+      <mask>*.l</mask>
+      <mask>*.</mask>
+      <mask>*.?</mask>
+      <mask>*.?s</mask>
     </recentFileMasks>
   </component>
 </application>
