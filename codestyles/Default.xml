@@ -1,1 +1,8 @@
-<code_scheme name="Default" />
+<code_scheme name="Default" version="173">
+  <JSCodeStyleSettings>
+    <option name="IMPORT_MERGE_MEMBERS" value="FALSE" />
+  </JSCodeStyleSettings>
+  <TypeScriptCodeStyleSettings>
+    <option name="IMPORT_MERGE_MEMBERS" value="FALSE" />
+  </TypeScriptCodeStyleSettings>
+</code_scheme>
