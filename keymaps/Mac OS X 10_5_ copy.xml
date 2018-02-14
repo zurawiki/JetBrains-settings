@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta alt r" />
   </action>
   <action id="RecentChangedFiles" />
+  <action id="ReformatCode" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta escape" />
   </action>
@@ -23,6 +24,10 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="Vcs.ReformatCommitMessage" />
+  <action id="com.intellij.prettierjs.ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="meta alt l" />
   </action>
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="ctrl meta alt e" />
